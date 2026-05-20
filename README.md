@@ -1,27 +1,27 @@
 ## Hey there, I'm Aditi Verma👋
 
-🎓 BTech CSE Student 3rd year
-💻 DSA Learner | Aspiring Software Engineer  
-🎮 Interested in Web Development and Data Analytics 
-📚 Currently learning how the to integrate recommendation system using APIs, data analysis, and backend technologies.
+- BTech CSE 3rd Year Student   
+- DSA Learner  
+- Interested in Web Development and Data Analytics  
+- Currently learning how to integrate recommendation systems using APIs, data analysis, and backend technologies.
 ---
 
-## About Me
+## 📍About Me
 
-Right now, I'm focused on:
+Currently, I'm focused on:
 - Data Structures & Algorithms
 - Exploring Data Analytics and Web Development
 - Improving my development skills
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 - Languages: C++, C, Python
 - Tools: Git, GitHub, VS Code, 
 - Technologies: Mongodb, Express.js, React, Node.js
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
 - GitHub: https://github.com/AditiV-19
 - LinkedIn: https://www.linkedin.com/in/aditi-verma-667b65323
